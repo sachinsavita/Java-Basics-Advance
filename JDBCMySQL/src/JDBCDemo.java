@@ -1,3 +1,4 @@
+//1.Import the package
 import java.sql.*; 
 public class JDBCDemo {
 
